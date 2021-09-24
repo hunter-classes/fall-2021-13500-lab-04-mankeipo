@@ -1,12 +1,12 @@
 * Fall 2021 - Lab 04
 
-* Last name:
+* Last name: Po
 
-* First name:
+* First name: Man Kei 
 
-* GitHub username:
+* GitHub username: pomankei
 
-* Notes:
+* Notes: lab04
 
 
 
